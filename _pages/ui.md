@@ -73,6 +73,6 @@ AppleSkin adds a display of your saturation level to the hunger bar:
 
 ![Screenshot of the AppleSkin hunger bar]({{ "/assets/images/appleskin.png" | relative_url }})
 
-The golden border on the drumsticks indicate your saturation level; the drumsticks continue to indicate your hunger level as normal. For more information about the difference between hunger and saturation, see ([the Minecraft wiki](https://minecraft.gamepedia.com/Hunger#Mechanics).
+The golden border on the drumsticks indicate your saturation level; the drumsticks continue to indicate your hunger level as normal. For more information about the difference between hunger and saturation, see [the Minecraft wiki](https://minecraft.gamepedia.com/Hunger#Mechanics).
 
 AppleSkin also adds the amount of hunger and saturation that food items restore to their tooltip, so you can see how effective different foods are.
