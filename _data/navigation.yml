@@ -1,2 +1,8 @@
 main:
+  - title: UI
+    url: /ui/
 docs:
+  - title: Getting Started
+    children:
+      - title: User Interface
+        url: /ui/
