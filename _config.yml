@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "en-GB"
 title                    : "Binary Treehouse"
-title_separator          : "|"
+title_separator          : "-"
 name                     : *name
 description              : "A Minecraft server and modpack."
 url                      : "https://tornewuff.github.io"
