@@ -6,3 +6,7 @@ docs:
     children:
       - title: User Interface
         url: /ui/
+  - title: Additional Information
+    children:
+      - title: Complete Mod List
+        url: /modlist/
