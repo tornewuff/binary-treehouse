@@ -6,6 +6,10 @@ docs:
     children:
       - title: User Interface
         url: /ui/
+  - title: Major Mods
+    children:
+      - title: Thermal Mods
+        url: /thermal-mods/
   - title: Additional Information
     children:
       - title: Complete Mod List
