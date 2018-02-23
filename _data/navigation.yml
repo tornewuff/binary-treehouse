@@ -2,7 +2,7 @@ main:
   - title: UI
     url: /ui/
 docs:
-  - title: Getting Started
+  - title: Basics
     children:
       - title: User Interface
         url: /ui/
