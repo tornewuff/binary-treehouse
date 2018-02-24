@@ -14,3 +14,11 @@ docs:
     children:
       - title: Complete Mod List
         url: /modlist/
+  - title: Links
+    children:
+      - title: Download from CurseForge
+        url: https://minecraft.curseforge.com/projects/binary-treehouse
+      - title: Bug Reports
+        url: https://github.com/tornewuff/binary-treehouse/issues
+      - title: Source Code
+        url: https://github.com/tornewuff/binary-treehouse
